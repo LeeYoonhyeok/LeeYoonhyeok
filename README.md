@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://img.shields.io/badge/{python}-{#3776AB}?style={flat-square}&logo={python}&logoColor={white}
+<img alt = "Python" src = "https://img.shields.io/badge/{python}-{#3776AB}?style={flat-square}&logo={python}&logoColor={white}">
 <!--
 **LeeYoonhyeok/LeeYoonhyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
